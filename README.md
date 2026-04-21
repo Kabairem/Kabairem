@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 🌱 I’m currently learning Data analytics
+- 📫 How to reach me: https://www.linkedin.com/in/anthony-mwangi-362332104
+- ⚡ Fun fact: Football lover
 <!--
 **Kabairem/Kabairem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
